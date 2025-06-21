@@ -18,7 +18,7 @@ This browser extension restores the classic "waffle" menu to the Microsoft 365 w
 
 The easiest way to get started is to install the extension directly from the Chrome Web Store.
 
-> **[Link to be added once published on the Chrome Web Store]**
+> **[Check out this item on the Chrome Web Store https://chromewebstore.google.com/detail/gpehjlglfibhfgpddoagehnfiodjhcck?utm_source=item-share-cp]**
 
 This method ensures you always have the latest, most stable version. It is compatible with Google Chrome, Microsoft Edge, and other Chromium-based browsers.
 
